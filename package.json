@@ -12,6 +12,7 @@
   "description": "",
   "dependencies": {
     "net": "^1.0.2",
+    "node-emberplus": "^3.0.6",
     "nodemon": "^3.1.4"
   }
 }
